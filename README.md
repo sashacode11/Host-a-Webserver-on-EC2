@@ -3,7 +3,7 @@
 Welcome to my Host-a-Webserver-on-EC2 project! This is my first DevOps endeavor aimed at hosting a web server on AWS EC2. Below, you'll find the link to access my website deployed on AWS.
 http://54.251.191.141/
 
-#Overview
+# Overview
 
 Throughout this project, I accomplished the following tasks:
 
